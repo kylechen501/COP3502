@@ -1,4 +1,4 @@
-import java.util.Scanner; \\New Comment
+import java.util.Scanner; 
 public class Main {
     public static void main(String args[])
     {
